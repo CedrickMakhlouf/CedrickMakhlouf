@@ -4,6 +4,8 @@
 - ⚡ Besides innovating externally I also enjoy delving into the potential of AI and discovering innovations within my immediate surroundings.
 - 💬 Please find me on [LinkedIn](https://www.linkedin.com/in/cedrick-m/) for a more detailed description of my full work experience, education and certification
 
+<br/>
+
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
@@ -19,6 +21,8 @@ Languages & Technologies: `Python` \
 **Software Engineer Intern** \
 [**Ministry of Justice and Security (SSC-I)**](https://www.justitieleictorganisatie.nl/) • Intern \
 Languages & Technologies: `Vue`, `Typescript`, `SCSS`, `HTML` \
+<br/>
+
 <br/>
 
 ### Connect with me:
