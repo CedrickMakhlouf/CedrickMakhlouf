@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I'm an aspiring Artificial Intelligence master's student, holding a Bachelor's degree in Software Engineering (BSc), and I'm deeply driven by innovation.
+- 🔭 I'm an aspiring Artificial Intelligence MSc student, holding a BSc in Software Engineering.
 - 🌱 I have worked as an external contributor on multiple innovative software projects for companies in the Netherlands.
-- ⚡ Besides innovating externally I also enjoy delving into the potential of AI and discovering innovations within my immediate surroundings.
-- 💬 Please find me on [LinkedIn](https://www.linkedin.com/in/cedrick-m/) for a more detailed description of my full work experience, education and certification
+- ⚡ Besides innovating externally I also enjoy delving into the potential of AI and innovating within my immediate surroundings.
+- 💬 Please find me on [LinkedIn](https://www.linkedin.com/in/cedrick-m/) for a more detailed description of my full work experience, education and certification.
 
 <br/>
 
