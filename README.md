@@ -2,7 +2,8 @@
 - 🔭 I'm an aspiring Artificial Intelligence MSc student ([@VU](https://vu.nl/en/education/master/artificial-intelligence)), holding a BSc in Software Engineering.
 - 🌱 I have worked as an external contributor on multiple innovative software projects for companies in the Netherlands.
 - ⚡ Besides innovating externally I also enjoy delving into the potential of AI and innovating within my immediate surroundings.
-- 💬 Please find me on [LinkedIn](https://www.linkedin.com/in/cedrick-m/) for a more detailed description of my full work experience, education and certification.
+
+<br/>
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
@@ -22,9 +23,10 @@ Languages & Technologies: `Vue`, `Typescript`, `SCSS`, `HTML` \
 <br/>
 
 <br/>
-Please find me on LinkedIn for a more detailed description of my full work experience, education and certification.
+Please find me on [LinkedIn](https://vu.nl/en/education/master/artificial-intelligence) for a more detailed description of my full work experience, education and certification.
 
-
+<br/>
+<br/>
 
 ### Connect with me:
 
