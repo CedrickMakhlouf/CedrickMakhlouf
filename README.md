@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 
 **AI Research Intern** \
 [**Ministry of the Interior and Kingdom Relations of Netherlands (SSC-ICT)**](https://www.ssc-ict.nl/) • Intern \
-Languages & Technologies: `Python` \
+Languages & Technologies: `Python`, `OpenCV`, `TensorFlow`, `Numpy` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SSC-I" src="./img/RO.jpeg"/>](https://www.justitieleictorganisatie.nl/)
