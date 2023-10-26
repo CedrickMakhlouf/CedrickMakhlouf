@@ -5,7 +5,7 @@
 
 <br/>
 
-### Work Experience
+### Experience
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="SSC-ICT" src="./img/RO.jpeg"/>](https://www.ssc-ict.nl/)
