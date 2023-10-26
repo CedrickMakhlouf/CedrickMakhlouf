@@ -24,7 +24,7 @@ Languages & Technologies: `Vue`, `Typescript`, `SCSS`, `HTML` \
 
 <br/>
 
-Please find me on [Linkedin](https://linkedin.com/in/cedrick) for a more detailed description of my full work experience, education and certification.
+Please find me on [Linkedin](https://linkedin.com/in/cedrick-m) for a more detailed description of my full work experience, education and certification.
 
 <br/>
 <br/>
