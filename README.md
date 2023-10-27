@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 - 🔭 I'm an aspiring Artificial Intelligence MSc student ([@VU](https://vu.nl/en/education/master/artificial-intelligence)), holding a BSc in Software Engineering.
 - 🌱 I have worked as an external contributor on multiple innovative software projects for companies in the Netherlands.
 - ⚡ Besides innovating externally I also enjoy delving into the potential of AI and innovating within my immediate surroundings.
