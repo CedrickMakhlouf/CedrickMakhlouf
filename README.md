@@ -30,5 +30,5 @@ Please find me on [Linkedin](https://linkedin.com/in/cedrick-m) for a more detai
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/cedrick-mr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cedrick-mr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/cedrick-m#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cedrick-m#gh-dark-mode-only)
