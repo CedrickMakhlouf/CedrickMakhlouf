@@ -5,8 +5,15 @@
 
 <br/>
 
-### Experience
+### Experience  
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="SSC-ICT" src="./img/RO.jpeg"/>](https://www.ssc-ict.nl/)
+
+**Generative AI Intern** \
+[**Ministry of the Interior and Kingdom Relations of Netherlands (SSC-ICT)**](https://www.ssc-ict.nl/) • Intern \
+Focus areas: `Local LLMs`, `LLM Evaluation`, `Screen Accessibility`, `Prompt Engineering`, `Semantic Metrics` \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="SSC-ICT" src="./img/RO.jpeg"/>](https://www.ssc-ict.nl/)
 
