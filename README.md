@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 
 **Generative AI Intern** \
 [**Ministry of the Interior and Kingdom Relations of Netherlands (SSC-ICT)**](https://www.ssc-ict.nl/) • Intern \
-Focus areas: `Local LLMs`, `LLM Evaluation`, `Screen Accessibility`, `Prompt Engineering`, `Semantic Metrics` \
+Focus areas: `Local LLMs`, `LLM Evaluation`, `Accessibility`, `Prompt Engineering`, `Azure AI` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SSC-ICT" src="./img/RO.jpeg"/>](https://www.ssc-ict.nl/)
