@@ -1,9 +1,3 @@
-### Hi 👋
-- 🔭 Full-time AI Engineer
-- 🔭 MSc AI graduate, holding a BSc in Software Engineering.
-
-<br/>
-
 ### Experience  
 In the overview below you will find my most recent work experience:
 
@@ -33,12 +27,6 @@ Languages & Technologies: `Python`, `OpenCV`, `TensorFlow`, `Numpy` \
 **Software Engineer Intern** \
 [**Ministry of Justice and Security (SSC-I)**](https://www.justitieleictorganisatie.nl/) • Intern \
 Languages & Technologies: `Vue`, `Typescript`, `SCSS`, `HTML` \
-<br/>
-
-<br/>
-
-Please find me on [Linkedin](https://linkedin.com/in/cedrick-m) for a more detailed description of my full work experience, education and certification.
-
 <br/>
 
 ### Connect with me:
