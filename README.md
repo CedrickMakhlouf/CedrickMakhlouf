@@ -7,7 +7,7 @@
 ### Experience  
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="NN Group" src="./img/nn.jpeg"/>](https://www.nn.nl/)
+[<img align="left" height="94px" width="94px" alt="NN Group" src="./img/nn.png"/>](https://www.nn.nl/)
 
 **AI Engineer** \
 [**NN Group**](https://www.nn.nl/) • Full-time \
