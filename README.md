@@ -1,5 +1,5 @@
 ### Hi 👋
--    Full-time AI Engineer
+- 🔭 Full-time AI Engineer
 - 🔭 MSc AI graduate, holding a BSc in Software Engineering.
 
 <br/>
