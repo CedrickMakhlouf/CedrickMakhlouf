@@ -1,12 +1,18 @@
 ### Hi 👋
+-    Full-time AI Engineer
 - 🔭 MSc AI graduate, holding a BSc in Software Engineering.
-- 🌱 I am driven by innovation and have worked as an external contributor on multiple innovative software projects for organizations in the Netherlands.
-- ⚡ Besides innovating externally I also enjoy delving into the potential of AI and innovating within my immediate surroundings.
 
 <br/>
 
 ### Experience  
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="NN Group" src="./img/nn.jpeg"/>](https://www.nn.nl/)
+
+**AI Engineer** \
+[**NN Group**](https://www.nn.nl/) • Full-time \
+Focus areas: `LLMs`, `APIs`, `Workflow Automation`, `Claims Automation`\
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="SSC-ICT" src="./img/RO.jpeg"/>](https://www.ssc-ict.nl/)
 
