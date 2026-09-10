@@ -1,5 +1,4 @@
 ### Experience  
-In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="NN Group" src="./img/nn.png"/>](https://www.nn.nl/)
 
